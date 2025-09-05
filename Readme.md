@@ -2,11 +2,6 @@
 
 Data preprocessing pipeline for hotel booking cancellation prediction.
 
-## Dataset
-- **Input**: 119,390 rows × 32 columns
-- **Output**: 87,138 rows × 99 features
-- **Target**: `is_canceled` (binary classification)
-
 ## Requirements
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
